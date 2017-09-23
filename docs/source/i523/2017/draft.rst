@@ -10,7 +10,7 @@ Draft Lessons
    :caption: Course
    :maxdepth: 3
 
-   course
+   course edit by miao
 
    ../overview
    ../lesson/linux/refcards
